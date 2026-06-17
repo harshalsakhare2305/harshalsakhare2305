@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓   Mathematics and Computing graduate from NIT Hamirpur<br>💼   Incoming Software Engineer at Accenture<br>🔧   Experienced in Spring Boot, Kafka, Microservices & Distributed Systems<br>🌐   Experienced in full-stack development with MERN Stack & TypeScript<br>🏆   LeetCode Knight with a peak rating of 2029 — Top 2% globally<br>🎯   ACM ICPC Chennai Regionalist (2025)<br>💡   Solved 1,000+ DSA problems across competitive programming platforms<br>📫   Reach me at harshalsakhare2305@gmail.com
+🎓   Mathematics and Computing graduate from NIT Hamirpur<br>💼   Upcoming Software Engineer at Accenture<br>🔧   Experienced in Spring Boot, Kafka, Microservices & Distributed Systems<br>🌐   Experienced in full-stack development with MERN Stack & TypeScript<br>🏆   LeetCode Knight with a peak rating of 2029 — Top 2% globally<br>🎯   ACM ICPC Chennai Regionalist (2025)<br>💡   Solved 1,000+ DSA problems across competitive programming platforms<br>📫   Reach me at harshalsakhare2305@gmail.com
 
 
 ## 🌐 Socials:
